@@ -8,14 +8,13 @@
 
 - 📫 Reach me at : **samuel.palmer@epitech.eu**
 
+## &#x1f4c8; GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beamcode&layout=compact&theme=gruvbox)](https://github.com/beamcode/beamcode)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beamcode&show_icons=true&theme=gruvbox)](https://github.com/beamcode/beamcode)
+
 <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/beamcode/count.svg" alt="" /></td>
   </tr>
 </table>
-
-## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beamcode&layout=compact&theme=gruvbox)](https://github.com/beamcode/beamcode)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beamcode&show_icons=true&theme=gruvbox)](https://github.com/beamcode/beamcode)
-
