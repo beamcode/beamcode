@@ -3,7 +3,6 @@
 - 👨‍💻 My Linkedin [https://www.linkedin.com/in/samuel-palmer1/](https://www.linkedin.com/in/samuel-palmer1/)
 - 📫 Reach me at : **samuel.palmer@epitech.eu**
 
-‎ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
 --- BEGIN RANDOM STATS NO ONE READS ---
