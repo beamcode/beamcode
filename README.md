@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beamcode&layout=compact&theme=gruvbox)](https://github.com/beamcode/beamcode)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beamcode&show_icons=true&theme=gruvbox)](https://github.com/beamcode/beamcode)
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=face-hh&show_icons=true&theme=tokyonight&layout=compact)
+[![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=beamcode&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/beamcode/beamcode)
 
 --- END RANDOM STATS NO ONE READS ---
 
